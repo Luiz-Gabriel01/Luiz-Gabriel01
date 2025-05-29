@@ -51,5 +51,4 @@ console.log("Se entendeu, deu certo!");
 📫 Entre em contato
 📧 luiz.gabriel12br@gmail.com
 
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" /> </p>
-<!-- Rodapé com arte --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/> </p> ```
+
