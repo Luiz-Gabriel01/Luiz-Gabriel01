@@ -44,7 +44,6 @@ const luizGabriel = {
 ☕ Curiosidades
 Prefiro um bom código a um código bonito.
 
-
 Luto com bugs, mas comemoro cada push.
 
 console.log("Se entendeu, deu certo!");
