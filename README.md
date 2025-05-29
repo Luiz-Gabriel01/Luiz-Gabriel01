@@ -54,5 +54,5 @@ console.log("Se entendeu, deu certo!");
 
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" /> </p>
 
-<!-- Rodapé com gradiente visível --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700,000000&height=120&section=footer"/> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700,000000&height=120&section=footer"/> </p> ```
 
