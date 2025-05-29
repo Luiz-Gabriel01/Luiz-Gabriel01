@@ -33,7 +33,7 @@
 
 ---
 
-⭐ Se você curtiu meu trabalho, sinta-se à vontade para dar uma estrela nos repositórios ou entrar em contato!
+⭐ Se você curtiu meu trabalho, sinta-se à vontade para dar uma estrela nos repositórios ou entrar em contato!.
 
 
 --->
