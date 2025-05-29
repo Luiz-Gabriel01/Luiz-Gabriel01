@@ -1,9 +1,3 @@
-<!-- README by Luiz Gabriel - estilo visual com arte e badges -->
-
-<!-- Header com arte animada -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
-</p>
 
 <h1 align="center">Fala dev, eu sou o Luiz Gabriel 👨‍💻</h1>
 
