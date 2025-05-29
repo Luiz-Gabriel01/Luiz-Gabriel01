@@ -21,7 +21,7 @@
 
 ## 📚 Atualmente estudando
 
-- Aprimorando projetos em **Node.js**
+- Aprimorando projetos em **PReact + PHP**
 - Desenvolvendo APIs REST com **PHP e Python**
 - Criando interfaces responsivas com **HTML + JavaScript**
 
