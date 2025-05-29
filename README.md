@@ -44,6 +44,9 @@ const luizGabriel = {
 ☕ Curiosidades
 Prefiro um bom código a um código bonito.
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+
+
 Luto com bugs, mas comemoro cada push.
 
 console.log("Se entendeu, deu certo!");
