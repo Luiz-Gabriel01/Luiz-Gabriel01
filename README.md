@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome ou Apelido]!
+# 👋 Olá, eu sou [Luiz Gabriel]!
 
 🎯 Desenvolvedor apaixonado por tecnologia e inovação.  
 💻 Programo em **JavaScript**, **HTML**, **Python**, **PHP** e **Node.js**.  
