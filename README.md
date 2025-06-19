@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
 </p>
 
 ---
@@ -25,7 +27,7 @@
 ```js
 const luizGabriel = {
   nome: "Luiz Gabriel",
-  linguagens: ["JavaScript", "HTML", "PHP", "Python", "Node.js"],
+  linguagens: ["JavaScript", "HTML", "css", "PHP", "Python", "Node.js"],
   email: "luiz.gabriel12br@gmail.com",
   foco: "Soluções reais, código limpo e aprendizado contínuo",
   missão: "Criar coisas incríveis com simplicidade e impacto"
