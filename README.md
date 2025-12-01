@@ -18,7 +18,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt%20IA-5D3FD3?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="./assets/badges/badge-aws-cloud.svg" alt="AWS Cloud Developer"/>
+ ![Badge](https://img.shields.io/badge/REVERSxBR-Developer-0A0A0A?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 
