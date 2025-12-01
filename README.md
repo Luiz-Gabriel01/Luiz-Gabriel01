@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt%20IA-5D3FD3?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-0f0f0f?style=for-the-badge&logo=amazonaws&logoColor=ff9900" />
+ <img src="https://img.shields.io/badge/AWS-1a1a1a?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 
 
