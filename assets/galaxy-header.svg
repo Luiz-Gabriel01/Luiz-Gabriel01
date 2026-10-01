@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Luiz Gabriel - Full Stack Developer</title>
+  <desc id="desc">Banner espacial preto e dourado com estrelas, órbitas e identidade visual de desenvolvedor full stack.</desc>
+  <defs>
+    <radialGradient id="bg" cx="28%" cy="50%" r="80%">
+      <stop offset="0" stop-color="#17120a"/>
+      <stop offset="0.28" stop-color="#0b0b0d"/>
+      <stop offset="0.72" stop-color="#06070a"/>
+      <stop offset="1" stop-color="#020305"/>
+    </radialGradient>
+    <radialGradient id="planet" cx="35%" cy="30%" r="70%">
+      <stop offset="0" stop-color="#ffe892"/>
+      <stop offset="0.25" stop-color="#d8aa24"/>
+      <stop offset="0.62" stop-color="#6f5200"/>
+      <stop offset="1" stop-color="#110d03"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff2a8"/>
+      <stop offset="0.36" stop-color="#ffd700"/>
+      <stop offset="0.72" stop-color="#b88900"/>
+      <stop offset="1" stop-color="#6e5100"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffd700" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#ffd700" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#ffd700" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#ffd700" stroke-opacity="0.18"/>
+
+  <g opacity="0.9">
+    <circle cx="62" cy="58" r="1.5" fill="#fff4b8"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="136" cy="108" r="1" fill="#d8c77b"/>
+    <circle cx="214" cy="42" r="2" fill="#ffd700"><animate attributeName="opacity" values=".25;1;.25" dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="286" cy="88" r="1.2" fill="#fff"/>
+    <circle cx="356" cy="40" r="1" fill="#ffd700"/>
+    <circle cx="432" cy="75" r="1.4" fill="#fff2a8"/>
+    <circle cx="520" cy="34" r="1.1" fill="#fff"/>
+    <circle cx="605" cy="82" r="1.6" fill="#ffd700"><animate attributeName="opacity" values=".35;1;.35" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="704" cy="42" r="1.2" fill="#fff"/>
+    <circle cx="824" cy="72" r="1.8" fill="#ffe892"/>
+    <circle cx="936" cy="34" r="1.1" fill="#fff"/>
+    <circle cx="1046" cy="76" r="1.6" fill="#ffd700"><animate attributeName="opacity" values=".2;1;.2" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="1141" cy="48" r="1" fill="#fff"/>
+    <circle cx="86" cy="286" r="1.2" fill="#fff"/>
+    <circle cx="176" cy="314" r="1.6" fill="#ffd700"/>
+    <circle cx="276" cy="273" r="1" fill="#fff"/>
+    <circle cx="398" cy="316" r="1.4" fill="#ffe892"/>
+    <circle cx="542" cy="282" r="1" fill="#fff"/>
+    <circle cx="672" cy="322" r="1.5" fill="#ffd700"/>
+    <circle cx="814" cy="291" r="1" fill="#fff"/>
+    <circle cx="954" cy="320" r="1.7" fill="#fff2a8"/>
+    <circle cx="1094" cy="282" r="1.1" fill="#fff"/>
+  </g>
+
+  <ellipse cx="250" cy="181" rx="180" ry="76" fill="none" stroke="#ffd700" stroke-opacity="0.08" stroke-width="26" filter="url(#soft)" transform="rotate(-13 250 181)"/>
+  <ellipse cx="250" cy="181" rx="176" ry="70" fill="none" stroke="url(#gold)" stroke-width="5" stroke-opacity="0.9" transform="rotate(-13 250 181)">
+    <animateTransform attributeName="transform" type="rotate" from="-13 250 181" to="347 250 181" dur="22s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="250" cy="181" rx="150" ry="54" fill="none" stroke="#fff0a2" stroke-width="1.5" stroke-opacity="0.35" transform="rotate(-13 250 181)"/>
+  <circle cx="250" cy="181" r="72" fill="#ffd700" opacity="0.09" filter="url(#soft)"/>
+  <circle cx="250" cy="181" r="55" fill="url(#planet)" stroke="#ffd700" stroke-opacity="0.55"/>
+  <circle cx="229" cy="160" r="12" fill="#fff2a8" opacity="0.18"/>
+  <circle cx="250" cy="181" r="4" fill="#fff4b8" filter="url(#glow)"/>
+
+  <g fill="#ffd700" filter="url(#glow)">
+    <circle cx="92" cy="193" r="2.2"/>
+    <circle cx="145" cy="130" r="1.8"/>
+    <circle cx="318" cy="118" r="2"/>
+    <circle cx="374" cy="208" r="2.3"/>
+    <circle cx="219" cy="268" r="1.7"/>
+  </g>
+
+  <line x1="490" y1="102" x2="1114" y2="102" stroke="url(#line)" stroke-width="1"/>
+  <text x="500" y="166" fill="#f7f7f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="48" font-weight="700" letter-spacing="4">LUIZ GABRIEL</text>
+  <text x="503" y="207" fill="#ffd700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" letter-spacing="3">FULL STACK DEVELOPER</text>
+  <text x="503" y="246" fill="#9aa0a9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="1.6">WEB  •  MOBILE  •  APIS  •  CLOUD  •  AI</text>
+  <text x="503" y="290" fill="#6f7680" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.2">RECIFE, PE // BUILDING DIGITAL UNIVERSES</text>
+  <circle cx="502" cy="319" r="3" fill="#ffd700" filter="url(#glow)"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/></circle>
+  <text x="515" y="324" fill="#ffd700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.5">SYSTEM ONLINE</text>
+</svg>
