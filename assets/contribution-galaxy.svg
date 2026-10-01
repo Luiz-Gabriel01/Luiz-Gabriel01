@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180" role="img" aria-label="Contribution Galaxy">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#6B5700"/>
+      <stop offset="0.5" stop-color="#FFD700"/>
+      <stop offset="1" stop-color="#FFF2A8"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1000" height="180" rx="18" fill="#0D1117"/>
+  <g opacity=".55" fill="#FFD700">
+    <circle cx="60" cy="38" r="1.2"/><circle cx="150" cy="75" r="1"/><circle cx="270" cy="42" r="1.4"/><circle cx="410" cy="91" r="1"/><circle cx="560" cy="46" r="1.3"/><circle cx="715" cy="84" r="1"/><circle cx="850" cy="39" r="1.4"/><circle cx="940" cy="104" r="1"/>
+  </g>
+  <path d="M80 120 C220 30, 390 160, 520 72 S800 40, 920 100" fill="none" stroke="url(#g)" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
+  <circle cx="920" cy="100" r="5" fill="#FFD700" filter="url(#glow)"/>
+  <text x="500" y="150" text-anchor="middle" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5">CONTRIBUTION GALAXY // INITIALIZED</text>
+</svg>
