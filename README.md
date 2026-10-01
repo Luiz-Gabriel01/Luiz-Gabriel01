@@ -4,18 +4,18 @@
 
 <p align="center">
   <a href="https://luizgabrielportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTF%C3%93LIO-FFD700?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/PORTF%C3%93LIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfólio" />
   </a>
   <a href="https://www.linkedin.com/in/luiz-gabriel-450245303/">
-    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=39C6FF" alt="LinkedIn" />
   </a>
   <a href="mailto:luiz.gabriel12br@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-0B1020?style=for-the-badge&logo=gmail&logoColor=A78BFF" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1100&color=FFD700&center=true&vCenter=true&width=760&lines=Transformando+ideias+em+produtos+digitais;Interfaces+imersivas+%2B+APIs+robustas;Web+%E2%80%A2+Mobile+%E2%80%A2+Cloud+%E2%80%A2+IA;Construindo+meu+pr%C3%B3prio+universo+digital" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1100&color=8EDBFF&center=true&vCenter=true&width=760&lines=Transformando+ideias+em+produtos+digitais;Interfaces+imersivas+%2B+APIs+robustas;Web+%E2%80%A2+Mobile+%E2%80%A2+Cloud+%E2%80%A2+IA;Construindo+meu+pr%C3%B3prio+universo+digital" alt="Typing SVG" />
 </p>
 
 ---
@@ -138,12 +138,12 @@ Sistema com cadastro, autenticação, CRUD de ocorrências e mapa interativo par
 ## `> TELEMETRIA_GITHUB`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Luiz-Gabriel01&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFD700&text_color=C9D1D9&icon_color=FFD700&ring_color=FFD700&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Gabriel01&layout=compact&hide_border=true&bg_color=00000000&title_color=FFD700&text_color=C9D1D9&langs_count=8&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Luiz-Gabriel01&show_icons=true&hide_border=true&bg_color=00000000&title_color=8EDBFF&text_color=D6E6FF&icon_color=39C6FF&ring_color=7C5CFF&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Gabriel01&layout=compact&hide_border=true&bg_color=00000000&title_color=8EDBFF&text_color=D6E6FF&langs_count=8&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Luiz-Gabriel01&hide_border=true&background=00000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com?user=Luiz-Gabriel01&hide_border=true&background=00000000&ring=39C6FF&fire=7C5CFF&currStreakLabel=8EDBFF&sideLabels=93A1C6&currStreakNum=E8F3FF&sideNums=E8F3FF&dates=667594" alt="Sequência de contribuições" />
 </p>
 
 ---
@@ -151,7 +151,7 @@ Sistema com cadastro, autenticação, CRUD de ocorrências e mapa interativo par
 ## `> CONTRIBUTION_SYSTEM`
 
 <p align="center">
-  <sub>Telemetria galáctica alimentada pelas minhas contribuições reais no GitHub.</sub>
+  <sub>Telemetria espacial alimentada pelas minhas contribuições reais no GitHub.</sub>
 </p>
 
 <p align="center">
@@ -163,7 +163,7 @@ Sistema com cadastro, autenticação, CRUD de ocorrências e mapa interativo par
 </p>
 
 <p align="center">
-  <img width="100%" src="./assets/contribution-system.svg" alt="Contribution System - painel galáctico de contribuições de Luiz Gabriel" />
+  <img width="100%" src="./assets/contribution-system.svg" alt="Contribution System - painel espacial de contribuições de Luiz Gabriel" />
 </p>
 
 <p align="center">
@@ -181,10 +181,10 @@ Sistema com cadastro, autenticação, CRUD de ocorrências e mapa interativo par
 
 <p align="center">
   <a href="mailto:luiz.gabriel12br@gmail.com">
-    <img src="https://img.shields.io/badge/ENVIAR_EMAIL-FFD700?style=for-the-badge&logo=gmail&logoColor=000" alt="Email" />
+    <img src="https://img.shields.io/badge/ENVIAR_EMAIL-6C63FF?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
   </a>
   <a href="https://luizgabrielportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/ABRIR_PORTF%C3%93LIO-111111?style=for-the-badge&logo=vercel&logoColor=FFD700" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/ABRIR_PORTF%C3%93LIO-0B1020?style=for-the-badge&logo=vercel&logoColor=39C6FF" alt="Portfólio" />
   </a>
 </p>
 
