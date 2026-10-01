@@ -141,7 +141,8 @@ def render_svg(today, metrics):
     width, height = 1200, 820
     today_count = metrics["today"]
     status = "ORBIT ACTIVE" if today_count > 0 else "AWAITING SIGNAL"
-    status_sub = f"{today_count} contribuição" + ("" if today_count == 1 else "ões") + " hoje"
+    noun = "contribuição" if today_count == 1 else "contribuições"
+    status_sub = f"{today_count} {noun} hoje"
 
     parts = [f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">
 <title id="title">Contribution System de Luiz Gabriel</title>
