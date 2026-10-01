@@ -2,7 +2,7 @@ name: Contribution Galaxy
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,17 +13,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate contribution snake
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution galaxy
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Luiz-Gabriel01
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#FFD700&color_dots=#0D1117,#3D3200,#6B5700,#A88700,#FFD700
+            assets/contribution-galaxy.svg?palette=github-dark&color_snake=#FFD700&color_dots=#0D1117,#3D3200,#6B5700,#A88700,#FFD700
 
-      - name: Publish generated files
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-          target_branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit updated galaxy
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-galaxy.svg
+          if git diff --cached --quiet; then
+            echo "No contribution changes to commit."
+          else
+            git commit -m "chore: update contribution galaxy [skip ci]"
+            git push
+          fi
