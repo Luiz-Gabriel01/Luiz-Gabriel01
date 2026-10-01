@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://luizgabrielportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFÓLIO-FFD700?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/PORTF%C3%93LIO-FFD700?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfólio" />
   </a>
   <a href="https://www.linkedin.com/in/luiz-gabriel-450245303/">
     <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn" />
@@ -151,19 +151,11 @@ Sistema com cadastro, autenticação, CRUD de ocorrências e mapa interativo par
 ## `> CONTRIBUTION_GALAXY`
 
 <p align="center">
-  <sub>Minhas contribuições virando uma órbita viva no perfil.</sub>
+  <sub>Minhas contribuições virando uma órbita viva no perfil. Atualização automática diária.</sub>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luiz-Gabriel01/Luiz-Gabriel01/output/github-contribution-grid-snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luiz-Gabriel01/Luiz-Gabriel01/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Galaxy" src="https://raw.githubusercontent.com/Luiz-Gabriel01/Luiz-Gabriel01/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luiz-Gabriel01&bg_color=00000000&color=FFD700&line=D4A017&point=FFFFFF&area=true&area_color=6B5700&hide_border=true&custom_title=ORBITA%20DE%20ATIVIDADE" alt="Gráfico de atividade" />
+  <img width="100%" alt="Contribution Galaxy" src="./assets/contribution-galaxy.svg" />
 </p>
 
 ---
@@ -180,7 +172,7 @@ Sistema com cadastro, autenticação, CRUD de ocorrências e mapa interativo par
     <img src="https://img.shields.io/badge/ENVIAR_EMAIL-FFD700?style=for-the-badge&logo=gmail&logoColor=000" alt="Email" />
   </a>
   <a href="https://luizgabrielportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/ABRIR_PORTFÓLIO-111111?style=for-the-badge&logo=vercel&logoColor=FFD700" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/ABRIR_PORTF%C3%93LIO-111111?style=for-the-badge&logo=vercel&logoColor=FFD700" alt="Portfólio" />
   </a>
 </p>
 
