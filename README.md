@@ -148,14 +148,26 @@ Sistema com cadastro, autenticação, CRUD de ocorrências e mapa interativo par
 
 ---
 
-## `> CONTRIBUTION_GALAXY`
+## `> CONTRIBUTION_SYSTEM`
 
 <p align="center">
-  <sub>Minhas contribuições virando uma órbita viva no perfil. Atualização automática diária.</sub>
+  <sub>Telemetria galáctica alimentada pelas minhas contribuições reais no GitHub.</sub>
 </p>
 
 <p align="center">
-  <img width="100%" alt="Contribution Galaxy" src="./assets/contribution-galaxy.svg" />
+  <code>01 DAILY STATUS</code> &nbsp;•&nbsp;
+  <code>02 STREAK</code> &nbsp;•&nbsp;
+  <code>03 THIS WEEK</code> &nbsp;•&nbsp;
+  <code>04 CONTRIBUTION GALAXY</code> &nbsp;•&nbsp;
+  <code>05 MONTHLY ACTIVITY</code>
+</p>
+
+<p align="center">
+  <img width="100%" src="./assets/contribution-system.svg" alt="Contribution System - painel galáctico de contribuições de Luiz Gabriel" />
+</p>
+
+<p align="center">
+  <sub>Atualização automática ao longo do dia via GitHub Actions. Cada estrela da galáxia representa um dia real de atividade.</sub>
 </p>
 
 ---
