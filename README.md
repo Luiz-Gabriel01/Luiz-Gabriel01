@@ -123,7 +123,7 @@ Sistema com cadastro, autenticação, CRUD de ocorrências e mapa interativo par
 
 `PHP` `MySQL` `Leaflet`
 
-[**Explorar projeto ↗**](https://bairroalerta.infinityfree.me/)
+[**Explorar projeto ↗**](https://bairroalerta.infinityfree.me/bairro_alerta/index.html)
 
 </td>
 </tr>
