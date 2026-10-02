@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/luiz-gabriel-450245303/">
     <img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=39C6FF" alt="LinkedIn" />
   </a>
-  <a href="mailto:luiz.gabriel12br@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=luiz.gabriel12br@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-0B1020?style=for-the-badge&logo=gmail&logoColor=A78BFF" alt="Email" />
   </a>
 </p>
@@ -180,7 +180,7 @@ Sistema com cadastro, autenticação, CRUD de ocorrências e mapa interativo par
 </p>
 
 <p align="center">
-  <a href="mailto:luiz.gabriel12br@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=luiz.gabriel12br@gmail.com">
     <img src="https://img.shields.io/badge/ENVIAR_EMAIL-6C63FF?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
   </a>
   <a href="https://luizgabrielportfolio.vercel.app/">
