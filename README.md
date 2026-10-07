@@ -71,7 +71,7 @@ E-commerce de streetwear com catálogo, pedidos, pagamentos, frete e área admin
 
 `React` `Firebase` `Mercado Pago` `SuperFrete`
 
-[**Explorar projeto ↗**](https://oryon-d45c2.web.app/)
+[**Explorar projeto ↗**](https://oryoncollective.com.br/)
 
 </td>
 <td width="50%" valign="top">
